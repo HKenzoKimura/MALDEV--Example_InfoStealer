@@ -2,12 +2,15 @@
 
 > **Context:** This project was developed as a **tabletop exercise simulation** to validate detection capabilities across EDR, SIEM, and network monitoring layers. The goal was to emulate a realistic threat actor TTP chain and measure MTTR, alert fidelity, and detection gaps in a controlled environment.
 >
-> Developed by: HKK
+> 
 >
 > 
 > ⚠️ *No production systems were targeted. All execution occurred in isolated lab infrastructure.*
 
 ---
+
+## `Developed by:HKK`
+
 
 ## `$ cat ./objective.txt`
 
